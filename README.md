@@ -122,6 +122,9 @@ ACCESS GRANTED ✓
 ---
 
 ## 👀 Profile Views
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=98ftxqhq6h-del&style=for-the-badge&color=blueviolet"/>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=98ftxqhq6h-del&color=blue&style=for-the-badge)
 ## 🐍 Contribution Snake
