@@ -115,3 +115,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=98ftxqhq6h-del&theme=tokyo-night" />
 </p>
+## 🌐 Connect With Me
+
+- 📧 Email: anurag798826@gmail.com
+- 💻 GitHub: https://github.com/98ftxqhq6h-del
