@@ -63,3 +63,9 @@
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=98ftxqhq6h-del&color=blue&style=for-the-badge)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/98ftxqhq6h-del/98ftxqhq6h-del/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
