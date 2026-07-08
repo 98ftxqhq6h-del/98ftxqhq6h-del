@@ -89,3 +89,10 @@ SYSTEM ONLINE ✅
 <img src="https://streak-stats.demolab.com?user=98ftxqhq6h-del&theme=tokyonight&hide_border=true"/>
 
 </div>
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=98ftxqhq6h-del&theme=tokyo-night&hide_border=true"/>
+</p>
