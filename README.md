@@ -110,4 +110,13 @@ SYSTEM ONLINE ✅
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=98ftxqhq6h-del&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
 </p>
+---
 
+# 🚀 Featured Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🤖 Nexus AI | Local AI Assistant powered by Ollama | 🚧 In Progress |
+| 📈 Share Market Brain | AI-powered stock & crypto market analysis | 🚧 In Progress |
+| 🐍 Python Projects | Automation scripts & Python practice | ✅ Active |
+| 🌐 Portfolio Website | Personal developer portfolio | 📅 Planned |
