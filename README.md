@@ -64,7 +64,13 @@ Nexus AI
 SYSTEM ONLINE ✅
 ```
 ---
+---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/98ftxqhq6h-del/98ftxqhq6h-del/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
 # 📊 GitHub Stats
 
 <div align="center">
