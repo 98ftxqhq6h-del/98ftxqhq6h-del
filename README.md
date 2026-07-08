@@ -74,3 +74,12 @@ SYSTEM ONLINE ✅
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=98ftxqhq6h-del&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=98ftxqhq6h-del&theme=tokyonight&hide_border=true"/>
+
+</div>
