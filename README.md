@@ -120,3 +120,15 @@ SYSTEM ONLINE ✅
 | 📈 Share Market Brain | AI-powered stock & crypto market analysis | 🚧 In Progress |
 | 🐍 Python Projects | Automation scripts & Python practice | ✅ Active |
 | 🌐 Portfolio Website | Personal developer portfolio | 📅 Planned |
+
+---
+
+# 🌱 Currently Learning
+
+- 🧠 Artificial Intelligence
+- 🐍 Python
+- 🦙 Ollama
+- 🤖 LLM Applications
+- 📊 Stock Market Analysis
+- 🛠 Git & GitHub
+- 🐧 Linux
