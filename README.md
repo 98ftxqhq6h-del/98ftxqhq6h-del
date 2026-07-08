@@ -25,3 +25,41 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux,bash,docker" />
 </p>
+---
+
+# 💻 System Terminal
+
+```bash
+┌──(anurag㉿nexus)-[~/workspace]
+└─$ whoami
+
+Anurag Kumar
+
+┌──(anurag㉿nexus)-[~/workspace]
+└─$ github
+
+98ftxqhq6h-del
+
+┌──(anurag㉿nexus)-[~/workspace]
+└─$ role
+
+AI Developer
+
+┌──(anurag㉿nexus)-[~/workspace]
+└─$ currently_learning
+
+Python
+Artificial Intelligence
+Ollama
+Git & GitHub
+
+┌──(anurag㉿nexus)-[~/workspace]
+└─$ current_project
+
+Nexus AI
+
+┌──(anurag㉿nexus)-[~/workspace]
+└─$ status
+
+SYSTEM ONLINE ✅
+```
