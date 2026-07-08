@@ -158,3 +158,14 @@ SYSTEM ONLINE ✅
 
 </p>
 
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+⭐ If you like my work, consider following me on GitHub.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+
+</div>
