@@ -132,3 +132,12 @@ SYSTEM ONLINE ✅
 - 📊 Stock Market Analysis
 - 🛠 Git & GitHub
 - 🐧 Linux
+- ---
+
+# 🎯 2026 Goals
+
+- ✅ Build Nexus AI
+- ✅ Master Python
+- ✅ Contribute to Open Source
+- ✅ Launch Portfolio Website
+- ✅ Learn AI Engineering
