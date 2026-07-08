@@ -96,3 +96,10 @@ SYSTEM ONLINE ✅
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=98ftxqhq6h-del&theme=tokyo-night&hide_border=true"/>
 </p>
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=98ftxqhq6h-del&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
