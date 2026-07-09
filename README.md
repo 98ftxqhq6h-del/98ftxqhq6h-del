@@ -53,6 +53,11 @@ goal: Build futuristic AI products 🚀
 </p>
 
 ---
+# 📊 GitHub Metrics
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/98ftxqhq6h-del/98ftxqhq6h-del/main/github-metrics.svg" width="100%">
+</p>
 
 ## 📊 GitHub Analytics
 
