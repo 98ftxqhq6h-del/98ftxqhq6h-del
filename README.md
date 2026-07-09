@@ -78,6 +78,33 @@ goal: Build futuristic AI products 🚀
 </div>
 
 ---
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=98ftxqhq6h-del&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+</p>
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/98ftxqhq6h-del">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+## 💡 Quote
+
+> "Code. Learn. Build. Repeat."
+> ## 🚀 Featured Projects
+
+- 🤖 Nexus AI
+- 🌌 3D Library
+- 🌐 Social Platform
+- ⚡ AI Automation
+- <p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</p>
+
 
 ## 🏆 GitHub Trophies
 
