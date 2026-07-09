@@ -1,171 +1,114 @@
+# 👾 98ftxqhq6h-del
+
 <div align="center">
 
-# 👋 Hi, I'm Anurag Kumar
-
-### 🤖 AI Developer • Python Learner • Open Source Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Building+Nexus+AI;Learning+Python;Open+Source+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00FFEA&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;WELCOME+TO+MY+CYBERSPACE;AI+%7C+AUTOMATION+%7C+CYBER+TECH;BUILDING+THE+FUTURE+WITH+CODE;NEXUS+AI+DEVELOPER" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 🤖 Building **Nexus AI**
-- 🐍 Learning **Python**
-- 🧠 Exploring **Artificial Intelligence**
-- 🦙 Working with **Ollama**
-- 📈 Building **Share Market Brain**
-- 🌱 Learning every day
----
-
-# 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux,bash,docker" />
-</p>
----
-
-# 💻 System Terminal
-
-```bash
-┌──(anurag㉿nexus)-[~/workspace]
-└─$ whoami
-
-Anurag Kumar
-
-┌──(anurag㉿nexus)-[~/workspace]
-└─$ github
-
-98ftxqhq6h-del
-
-┌──(anurag㉿nexus)-[~/workspace]
-└─$ role
-
-AI Developer
-
-┌──(anurag㉿nexus)-[~/workspace]
-└─$ currently_learning
-
-Python
-Artificial Intelligence
-Ollama
-Git & GitHub
-
-┌──(anurag㉿nexus)-[~/workspace]
-└─$ current_project
-
-Nexus AI
-
-┌──(anurag㉿nexus)-[~/workspace]
-└─$ status
-
-SYSTEM ONLINE ✅
+```yaml
+name: Anurag Kumar
+username: 98ftxqhq6h-del
+education: BCA @ Amity University
+focus:
+  - Artificial Intelligence
+  - Automation Systems
+  - Full Stack Development
+  - Cyber Tech
+  - Open Source
+current_project: Nexus AI
+goal: Build futuristic AI products 🚀
 ```
----
+
 ---
 
-# 🐍 Contribution Snake
+## ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://github.com/98ftxqhq6h-del/98ftxqhq6h-del/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,react,nodejs,firebase,mysql,git,github,linux,vscode,docker" />
 </p>
-# 📊 GitHub Stats
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=98ftxqhq6h-del&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=98ftxqhq6h-del&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=98ftxqhq6h-del&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=98ftxqhq6h-del&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
+
 ---
 
-# 🔥 GitHub Streak
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=98ftxqhq6h-del&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=98ftxqhq6h-del&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Nexus AI
+AI assistant built with local LLMs, automation workflows, and futuristic UI.
+
+### 🌌 3D Sci-Fi Library
+Interactive futuristic digital library with holographic books and voice AI.
+
+### 📱 Social Connect Platform
+A social-sharing platform inspired by modern social networks.
+
+### ⚙️ AI Automation Tools
+Tools for automating content creation, social media posting, and workflows.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/98ftxqhq6h-del">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=98ftxqhq6h-del&theme=tokyonight&hide_border=true"/>
+### 👁️ Visitor Counter
+
+<img src="https://komarev.com/ghpvc/?username=98ftxqhq6h-del&label=PROFILE+VIEWS&color=00ffea&style=for-the-badge" />
 
 </div>
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=98ftxqhq6h-del&theme=tokyo-night&hide_border=true"/>
-</p>
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=98ftxqhq6h-del&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=98ftxqhq6h-del&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
-</p>
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🤖 Nexus AI | Local AI Assistant powered by Ollama | 🚧 In Progress |
-| 📈 Share Market Brain | AI-powered stock & crypto market analysis | 🚧 In Progress |
-| 🐍 Python Projects | Automation scripts & Python practice | ✅ Active |
-| 🌐 Portfolio Website | Personal developer portfolio | 📅 Planned |
-
----
-
-# 🌱 Currently Learning
-
-- 🧠 Artificial Intelligence
-- 🐍 Python
-- 🦙 Ollama
-- 🤖 LLM Applications
-- 📊 Stock Market Analysis
-- 🛠 Git & GitHub
-- 🐧 Linux
-- ---
-
-# 🎯 2026 Goals
-
-- ✅ Build Nexus AI
-- ✅ Master Python
-- ✅ Contribute to Open Source
-- ✅ Launch Portfolio Website
-- ✅ Learn AI Engineering
-
-  ---
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/98ftxqhq6h-del">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:anurag798826@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+```
+██████╗ ███████╗██╗  ██╗██╗   ██╗███████╗
+██╔══██╗██╔════╝╚██╗██╔╝██║   ██║██╔════╝
+██║  ██║█████╗   ╚███╔╝ ██║   ██║███████╗
+██║  ██║██╔══╝   ██╔██╗ ██║   ██║╚════██║
+██████╔╝███████╗██╔╝ ██╗╚██████╔╝███████║
+╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+```
 
-⭐ If you like my work, consider following me on GitHub.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+### ⚡ "Code. Build. Automate. Repeat." ⚡
 
 </div>
