@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/98ftxqhq6h-del/98ftxqhq6h-del/main/assets/banner.png" alt="Nexus AI Banner" width="100%">
+</p>
+
+<h1 align="center">👋 Welcome to My GitHub</h1>
+<p align="center">
   <img src="https://raw.githubusercontent.com/98ftxqhq6h-del/98ftxqhq6h-del/main/banner.png" alt="Nexus AI Banner" width="100%">
 </p>
 # 👾 98ftxqhq6h-del
