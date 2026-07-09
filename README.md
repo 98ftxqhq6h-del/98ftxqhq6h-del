@@ -1,6 +1,8 @@
-
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Nexus AI Banner">
+  <img src="https://ghstats.dev/api/card?username=98ftxqhq6h-del&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://ghstats.dev/api/languages?username=98ftxqhq6h-del&theme=tokyonight" />
 </p>
 
 <h1 align="center">⚡ NEXUS AI ⚡</h1>
