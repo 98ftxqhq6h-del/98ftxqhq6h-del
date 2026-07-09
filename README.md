@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/98ftxqhq6h-del/98ftxqhq6h-del/main/banner.png" alt="Nexus AI Banner" width="100%">
+</p>
 # 👾 98ftxqhq6h-del
 
 <div align="center">
