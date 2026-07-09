@@ -1,4 +1,13 @@
 <p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Nexus AI Banner">
+</p>
+
+<h1 align="center">⚡ NEXUS AI ⚡</h1>
+
+<p align="center">
+AI • Automation • Cyber Tech • Open Source
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/98ftxqhq6h-del/98ftxqhq6h-del/main/assets/banner.png" alt="Nexus AI Banner" width="100%">
 </p>
 
