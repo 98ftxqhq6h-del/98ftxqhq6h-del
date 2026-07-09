@@ -1,8 +1,4 @@
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/98ftxqhq6h-del/98ftxqhq6h-del/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
 <p align="center">
   <img src="./assets/banner.png" width="100%" alt="Nexus AI Banner">
 </p>
