@@ -81,6 +81,11 @@ goal: Build futuristic AI products 🚀
 </div>
 
 ---
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=98ftxqhq6h-del&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph">
+</p>
 
 ## 🚀 Featured Projects
 
