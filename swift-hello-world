@@ -1,1 +1,14 @@
+If you want to say "Hello, World!" in Swift and push it to GitHub, follow these steps.
+mkdir Swift-Hello
+cd Swift-Hello
+Now, write this code in the hello.swift file:
+touch hello.swift
+print("Hello, World!")
+2. Run the program
 
+In the terminal:
+swift hello.swift
+3. Get started with Git for GitHub.
+git init
+git add .
+git commit -m "Add Swift Hello World"
