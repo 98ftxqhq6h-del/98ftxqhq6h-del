@@ -1,0 +1,23 @@
+[
+  {
+    "id": "mem_1",
+    "content": "Operator prefers Python 3.12+ FastAPI backend with React Tailwind v4 frontend.",
+    "category": "Preferences",
+    "tags": [
+      "stack",
+      "python",
+      "react"
+    ],
+    "created_at": "2026-08-01 10:15:00"
+  },
+  {
+    "id": "mem_2",
+    "content": "GitHub Repository '98ftxqhq6h-del' tracked for automated release notes and issue processing.",
+    "category": "Projects",
+    "tags": [
+      "github",
+      "nexus-ai"
+    ],
+    "created_at": "2026-08-02 09:00:00"
+  }
+]
